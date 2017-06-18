@@ -9,7 +9,7 @@ defmodule Qrcode.Mixfile do
   end
 
   def application do
-    [applications: [], mod: {:qrcode, []}]
+    [applications: []]
   end
 
 end
